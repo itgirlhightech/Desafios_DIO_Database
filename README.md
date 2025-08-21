@@ -1,4 +1,4 @@
-# Desafios_DIO_Database
+# Desafios DIO
 
 # Desafio DIO - Esquema Conceitual de Oficina Mecânica com MySQL
 
@@ -16,3 +16,4 @@ Este desafio ajudou a reforçar:
 - Modelagem conceitual e lógica de bancos de dados relacionais.
 - Definição de relacionamentos entre entidades.
 - Boas práticas na organização de tabelas.
+
